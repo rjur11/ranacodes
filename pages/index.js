@@ -21,7 +21,7 @@ export default function Home() {
           tristique pellentesque ultrices. Pellentesque habitant morbi tristique
           senectus et netus et malesuada fames ac turpis egestas.
         </p>
-        <Link href="/ninjas">
+        <Link href="/projects">
           <a classname={styles.btn}>See Projects</a>
         </Link>
       </div>
